@@ -1,9 +1,20 @@
-# THE FRIENDS CINEMA
-## 1- INTEGRANTE:
--Santiago Mejia Guerra
--Marilyn Rio David
-## 2- VINCULO ACADEMICO Y DESCRIPCIÓN:
+# *Proyecto Final*
+## **Cinema The Friends**
+
+### Integrantes:
+* Santiago Mejia Guerra
+>* Hola soy santiago... descripcion corta
+* Marilyn Rio David
+>* descripcion
+
+### Vinculos academicos y descripcion:
+* Santiago
+>* estudiante udea, ....tengo habilidad y fortalezas en programacion
 -Somos estudiantes de la carrera de ingenieria industrial de la Universidad de Antioquia la habilidad principal de Santiago Mejia Guerra es Administracón,  Contabilidad, Finanzas, juego ajedrez y me gusta mucho ver fútbol, Marilyn Rios David
+
+### Licencia:
+
+
 ## 3- NOMBRE DEL PROYECTO  Y DETALLES: 
 La activiad academica de este prohyecto es crear un cine universitario cuyo nombre es The Friends, el cual servira como insumo para ver y reservar peliculas. <img width="352" height="352" alt="image" src="https://github.com/user-attachments/assets/b7282ccb-fcbc-4d8e-a770-302e243c15e4" />
 ## 5 OBJETIVO GENERAL: 
