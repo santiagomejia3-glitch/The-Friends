@@ -16,7 +16,8 @@
 
 
 ## Nombre del proyecto y detalles: 
-La activiad academica de este proyecto es crear un cine universitario cuyo nombre es The Friends, el cual servira como insumo para ver y reservar peliculas. <img width="352" height="352" alt="image" src="https://github.com/user-attachments/assets/b7282ccb-fcbc-4d8e-a770-302e243c15e4" />
+La activiad academica de este proyecto es crear un cine universitario cuyo nombre es The Friends, el cual servira como insumo para ver y reservar peliculas. 
+<img width="352" height="352" alt="image" src="https://github.com/user-attachments/assets/b7282ccb-fcbc-4d8e-a770-302e243c15e4" />
 
 ## 5 OBJETIVO GENERAL: 
 -Desarrollar un cine para la universidad de Antioquia llamado The Friends en donde los usuarios puedan tener una experiencia organizada en la asignación de los puestos  las reservas, consultas y  cancelaciones de las funciones cinematograficas.
