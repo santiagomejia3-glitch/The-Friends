@@ -1,4 +1,4 @@
-# The-Friends
+# THE FRIENDS CINEMA
 ## 1- INTEGRANTE:
 -Santiago Mejia Guerra
 -Marilyn Rio David
