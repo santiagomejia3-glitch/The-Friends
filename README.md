@@ -19,23 +19,26 @@ está bajo una [Licencia Creative Commons Atribución-CompartirIgual 4.0 Interna
 ### Integrantes:
 * Santiago Mejia Guerra
 >* Hola soy santiago... descripcion corta
-* Marilyn Rio David
->* descripcion
+* Marilyn Rios David
+>* Hola soy marilyn y 
 
 ### Vinculos academicos y descripcion:
-* Santiago
->* estudiante udea, ....tengo habilidad y fortalezas en programacion
--Somos estudiantes de la carrera de ingenieria industrial de la Universidad de Antioquia la habilidad principal de Santiago Mejia Guerra es Administracón,  Contabilidad, Finanzas, juego ajedrez y me gusta mucho ver fútbol, Marilyn Rios David
+* Santiago Mejia Guerra
+>* Estudiante udea de ingenieria industrial, tengo habilidad en ajedrez y fortalezas en administracion, contabilidad y finanzas.
+
+* Marilyn Rios David
+>* Estudiante udea de ingenieria industrial, tengo algo de habilidad en el dibujo y escritura, y mis fortalezas son la constancia, escucha, realmente no tengo mucho en cosas tecnicas pero espero desarrollarlas.
 
 ### Licencia:
 The Friends" by Santiago Mejía Guerra and Marilyn Ríos is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
 To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Nombre del proyecto y detalles: 
-La activiad academica de este proyecto es crear un cine universitario cuyo nombre es The Friends, el cual servira como insumo para ver y reservar peliculas. 
+* Nombre: The Friends
+*> La activiad academica de este proyecto es crear un cine universitario cuyo nombre es The Friends, el cual servira como insumo para ver y reservar peliculas. 
 <img width="352" height="352" alt="image" src="https://github.com/user-attachments/assets/b7282ccb-fcbc-4d8e-a770-302e243c15e4" />
 
-## 5 OBJETIVO GENERAL: 
+## Objetivo general: 
 -Desarrollar un cine para la universidad de Antioquia llamado The Friends en donde los usuarios puedan tener una experiencia organizada en la asignación de los puestos  las reservas, consultas y  cancelaciones de las funciones cinematograficas.
 ## BENEFICIOS:
 - Controlar la programación  de la sala de cine.
