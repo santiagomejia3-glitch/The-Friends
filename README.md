@@ -13,7 +13,8 @@
 -Somos estudiantes de la carrera de ingenieria industrial de la Universidad de Antioquia la habilidad principal de Santiago Mejia Guerra es Administracón,  Contabilidad, Finanzas, juego ajedrez y me gusta mucho ver fútbol, Marilyn Rios David
 
 ### Licencia:
-
+The Friends" by Santiago Mejía Guerra and Marilyn Ríos is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Nombre del proyecto y detalles: 
 La activiad academica de este proyecto es crear un cine universitario cuyo nombre es The Friends, el cual servira como insumo para ver y reservar peliculas. 
