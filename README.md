@@ -9,7 +9,7 @@ está bajo una
   Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional
 </a>.
 
-Este trabajo, **"The Friends"**, de **Santiago Mejía Guerra** y **Marilyn Ríos**,  
+Este trabajo, **"The Friends"**, de **Santiago Mejía Guerra** y **Marilyn Ríos David**,  
 está bajo una [Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/).
 
 
