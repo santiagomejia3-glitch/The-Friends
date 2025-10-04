@@ -1,4 +1,13 @@
-[![Licencia CC BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
+  <img alt="Licencia Creative Commons" style="border-width:0"
+       src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
+</a>
+<br />
+Este trabajo, <strong>"The Friends"</strong>, de <strong>Santiago Mejía Guerra</strong> y <strong>Marilyn Ríos</strong>, 
+está bajo una 
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
+  Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional
+</a>.
 
 Este trabajo, **"The Friends"**, de **Santiago Mejía Guerra** y **Marilyn Ríos**,  
 está bajo una [Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/).
