@@ -3,7 +3,7 @@
        src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
 </a>
 <br />
-Este trabajo, <strong>"The Friends"</strong>, de <strong>Santiago Mejía Guerra</strong> y <strong>Marilyn Ríos</strong>, 
+Este trabajo, <strong>"The Friends"</strong>, de <strong>Santiago Mejía Guerra</strong> y <strong>Marilyn Ríos David</strong>, 
 está bajo una 
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
   Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional
