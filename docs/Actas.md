@@ -1,5 +1,5 @@
 # Convocatoria de reunión: 
-La convocatoria de reunión se realizó el martes 30 de septiembre de 6:00 a 8:00 p.m. en donde los integrantes Santiago Mejia Guerra y Marilyn Ríos David decidieron reunirse para avanzar en la entrega del proyecto, donde los integrantes decidieron avanzar en las entregas de los puntos del cinema universitario y donde se reunieron para asignar a cada uno de los integrantes sus responsabilidades.
+La convocatoria de reunión se realizó el martes 30 de septiembre de 6:00 a 8:00 p.m. en donde los integrantes Santiago Mejia Guerra y Marilyn Ríos David decidieron reunirse para avanzar en la entrega del proyecto, donde los integrantes decidieron avanzar en las entregas de los puntos del cinema universitario y donde se asignaron a cada uno sus responsabilidades.
 
 # Acta de entendimiento:
 Documento que detalla los objetivos comunes del grupo y las expectativas de cada miembro respecto al proyecto.
