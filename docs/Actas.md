@@ -6,9 +6,9 @@ Documento que detalla los objetivos comunes del grupo y las expectativas de cada
 
 ## Expectativas:
 * Santiago Mejia Guerra:
-*> Mi expectativa  es aprender de algoritmia y programación pasando de un nivel basico a intermedio, no solo con lo de la clase si no con el curso de python para de esta manera tener las herramientas basicas necesarias,  ganar esta y las materias futuras en las cuales necesite de estas herramienta para realizar las actividades y evaluaciones para asi sentirme fortalecido, poder  ejercer la profesion a futuro de un ambiente tan competitivo como es el ambiente profesional de un ingeniero industrial.
+>* Mi expectativa  es aprender de algoritmia y programación pasando de un nivel basico a intermedio, no solo con lo de la clase si no con el curso de python para de esta manera tener las herramientas basicas necesarias,  ganar esta y las materias futuras en las cuales necesite de estas herramienta para realizar las actividades y evaluaciones para asi sentirme fortalecido, poder  ejercer la profesion a futuro de un ambiente tan competitivo como es el ambiente profesional de un ingeniero industrial.
 * Marilyn Rios David:
-*> Mis expectativas sobre este proyecto son: mejorar habilidades de trabajo en equipo, sabiendo expresar mis ideas y teniendo buena comunicación y entendimiento; saber implementar adecuadamente las herramientas que ofrece phyton para realizar proyectos como el del cinema; aprender a seguir instrucciones y a la misma vez darlas, mejorando la redaccion y comprension.
+>* Mis expectativas sobre este proyecto son: mejorar habilidades de trabajo en equipo, sabiendo expresar mis ideas y teniendo buena comunicación y entendimiento; saber implementar adecuadamente las herramientas que ofrece phyton para realizar proyectos como el del cinema; aprender a seguir instrucciones y a la misma vez darlas, mejorando la redaccion y comprension.
 
 # Acta de colaboracion:
 Documento que especifica las metodologías de trabajo en equipo, incluyendo estrategias de comunicación y resolución de conflictos.
