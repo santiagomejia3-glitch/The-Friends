@@ -30,8 +30,8 @@ Documento que asigna tareas específicas a cada miembro del grupo, estableciendo
 ## Responsabilidades:
 La responsabilidad del equipo es de los dos, aunque los roles son diferentes, el rol de Santiago Mejia Guerra es la de administrador del equipo, la de Marilyn Ríos David es de líder de programación y diseño del trabajo de aplicación. Los plazos de entrega son: reunirnos dos veces por semana de mínimo 2 horas por reunión; Los plazos para la entrega es la fecha límite de los entregables sin pasarnos de un día de más, por más que no esté completo los criterios de evaluación, es que sí los integrantes están cumpliendo con las reuniones acordadas y con la ejecución de las actividades tienen un 5.0 entre nosotros mismos o la nota que asigne el profesor.
 ## Firmas:
-* Santiago Mejia Guerra:
+## Santiago Mejia Guerra:
 ![Santiago Mejia Guerra](https://github.com/user-attachments/assets/7918c020-67b1-43f3-bee0-542fd4513240)
-* Marilyn Rios David:
+## Marilyn Rios David:
 ![Marilyn Rios David](https://github.com/user-attachments/assets/031094ca-423b-4c8d-b72b-7a0281fd8477)
 
