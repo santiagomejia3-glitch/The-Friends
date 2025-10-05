@@ -25,7 +25,7 @@ Documento que especifica las metodologías de trabajo en equipo, incluyendo estr
 Documento que asigna tareas específicas a cada miembro del grupo, estableciendo plazos y criterios de evaluación.
 
 ## Responsabilidades:
-La responsabilidad del equipo es de los dos auque los roles son diferentes el rol de Santiago Mejia Guerra es la de administrador del equipo la de Marilyn Rios David es de lider de programacion y diseño del trabajo de aplicación los plazos de entrega son reunirnos dos veces por semana de minimo 2 horas por reunion. Los plazo para la entrega es la fecha limite de los entregables sin pasarnos de un dia de más por mas que no este completo los criterios de evaluacion es que sí los integrantes estan cumpliendo con las reuniones acordadas y con la ejecucion de las actividades tienen un 5.0 entre nosotros mismos o la nota que asigne el profesor.
+La responsabilidad del equipo es de los dos, aunque los roles son diferentes, el rol de Santiago Mejia Guerra es la de administrador del equipo, la de Marilyn Rios David es de lider de programacion y diseño del trabajo de aplicación. Los plazos de entrega son: reunirnos dos veces por semana de minimo 2 horas por reunion; Los plazo para la entrega es la fecha limite de los entregables sin pasarnos de un dia de más, por mas que no este completo los criterios de evaluacion, es que sí los integrantes estan cumpliendo con las reuniones acordadas y con la ejecucion de las actividades tienen un 5.0 entre nosotros mismos o la nota que asigne el profesor.
 
 
 ![Santiago Mejia Guerra](https://github.com/user-attachments/assets/7918c020-67b1-43f3-bee0-542fd4513240)
