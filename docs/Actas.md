@@ -1,5 +1,5 @@
-# Convocatoria de Reunión: 
-La convocatoria de reunión se realizó el martes 30 de septiembre de 6:00 a 8:00 p.m. en donde los integrantes Santiago Mejia Guerra y Marilyn Ríos David decidieron reunirse para avanzar en la entrega del proyecto donde los integrantes decidieron avanzar en las entregas de los puntos del cinema universitario y donde se reunieron para asignar a cada uno de los integrantes sus responabbiliades.
+# Convocatoria de reunión: 
+La convocatoria de reunión se realizó el martes 30 de septiembre de 6:00 a 8:00 p.m. en donde los integrantes Santiago Mejia Guerra y Marilyn Ríos David decidieron reunirse para avanzar en la entrega del proyecto, donde los integrantes decidieron avanzar en las entregas de los puntos del cinema universitario y donde se reunieron para asignar a cada uno de los integrantes sus responsabilidades.
 
 # Acta de entendimiento:
 Documento que detalla los objetivos comunes del grupo y las expectativas de cada miembro respecto al proyecto.
@@ -29,9 +29,7 @@ Documento que asigna tareas específicas a cada miembro del grupo, estableciendo
 
 ## Responsabilidades:
 La responsabilidad del equipo es de los dos, aunque los roles son diferentes, el rol de Santiago Mejia Guerra es la de administrador del equipo, la de Marilyn Ríos David es de líder de programación y diseño del trabajo de aplicación. Los plazos de entrega son: reunirnos dos veces por semana de mínimo 2 horas por reunión; Los plazos para la entrega es la fecha límite de los entregables sin pasarnos de un día de más, por más que no esté completo los criterios de evaluación, es que sí los integrantes están cumpliendo con las reuniones acordadas y con la ejecución de las actividades tienen un 5.0 entre nosotros mismos o la nota que asigne el profesor.
-
-
-
+## Firmas:
 
 ![Santiago Mejia Guerra](https://github.com/user-attachments/assets/7918c020-67b1-43f3-bee0-542fd4513240)
 
