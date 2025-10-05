@@ -3,6 +3,7 @@ Documento que detalla los objetivos comunes del grupo y las expectativas de cada
 
 ## Objetivos:
 * Aprender de algoritmia y programación mediante un proyecto teorico practico el cual consiste en crear un cinema a la Universidad de Antioquia, ganando experiencia y afianzando los conocimientos aprendidos en clase.
+* Obtener una buena calificacion.
 
 ## Expectativas:
 * Santiago Mejia Guerra:
@@ -15,7 +16,10 @@ Documento que especifica las metodologías de trabajo en equipo, incluyendo estr
 
 ## Metodologia de trabajo en equipo:
 * Los integrantes del equipo, Santiago Mejia Guerra y Marilyn Rios David, se han venido reuniendo de manera constante para garantizar el buen desarrollo del proyecto The Friends Cinema. Las principales estrategias de trabajo utilizadas son las siguientes:
-*> Horarios coordinados: se acordo reuiniones en horarios que favorecen a ambos integrantes, como ya se ha venido haciendo, dichas reuniones se haran por zoom; Comunicacion efectiva: se mantiene una comunicacion constante, tanto dentro del salon de clases como fuera de el, utilizando medios virtuales para coordinar actividades; Toma de decisiones en conjunto: todas las actividades y tareas se realizan con el acuerdo mutuo de ambos integrantes. Ninguna decision se toma de manera unilateral, ya que se considera fundamental el consenso para el avance del proyecto; Resolucion de conflictos: en caso de que no se logre llegar a un acuerdo, se solicitara la orientacion del profesor, quien, con su experiencia, brindara la mejor solucion para continuar con el trabajo.
+>* Horarios coordinados: se acordo reuiniones en horarios que favorecen a ambos integrantes, como ya se ha venido haciendo, dichas reuniones se haran por zoom.
+>* Comunicacion efectiva: se mantiene una comunicacion constante, tanto dentro del salon de clases como fuera de el, utilizando medios virtuales para coordinar actividades.
+>* Toma de decisiones en conjunto: todas las actividades y tareas se realizan con el acuerdo mutuo de ambos integrantes. Ninguna decision se toma de manera unilateral, ya que se considera fundamental el consenso para el avance del proyecto.
+>* Resolucion de conflictos: en caso de que no se logre llegar a un acuerdo, se solicitara la orientacion del profesor, quien, con su experiencia, brindara la mejor solucion para continuar con el trabajo.
 
 # Acta de responsabilidad: 
 Documento que asigna tareas específicas a cada miembro del grupo, estableciendo plazos y criterios de evaluación.
