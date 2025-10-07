@@ -30,15 +30,15 @@ de la ciudadela universitaria los fines de semana. Permitiendo registrar usuario
 #### Beneficios:
 * Controlar la programación  de la sala de cine.
 * Fomentar la cultura de ver cine en la Universidad de Antioquia.
-* Facilitar la compra, la asignacion, la cancelación, la visualización y consultas  de puestos en donde los usuarios puedan en las diferenes funciones  realizarlas sea una o varias veces.
+* Facilitar la compra, la asignacion, la cancelación, la visualización y consultas  de puestos.
   
-### ESPECIFICACIONES DE BENEFICIOS:
-#### REQUISITOS FUNCIONALES: 
--Registrar usuarios y reservas, cancelar reservas, consultar funciones de fines de semana de los diferentes usuarios
--Funciones del administrador: llevar control estadistico de totales de reservas asignadas, tiquetes vendidos, reservas realizadas, pago realizado, promedio de venta diaria del cine, usuarios con mayor cantidad de mayor y menor cantidad de reservas.
-# REQUISITOS NO FUNCIONALES: 
--Debe haber proteccion de datos personales
-- El software puede verse desde diferentes componentes tecnologicos como computadoras, tablets y celulares.
-- El software debe de ser facil de usar.
-- Tiene corta duracion de respuesta  a los requerimientos.
+### Especificacion de requisitos:
+#### Requisitos funcionales: 
+* Registrar usuarios y reservas, cancelar reservas, consultar funciones de fines de semana de los diferentes usuarios
+* Funciones del administrador: llevar control estadistico de totales de reservas asignadas, tiquetes vendidos, reservas realizadas, pago realizado, promedio de venta diaria del cine, usuarios con mayor cantidad de mayor y menor cantidad de reservas.
+#### Requisitos no funcionales: 
+* Debe haber proteccion de datos personales
+* El software debe verse desde diferentes componentes tecnologicos como computadoras, tablets y celulares.
+* El software debe de ser facil de usar.
+* Tiene corta duracion de respuesta  a los requerimientos.
 
