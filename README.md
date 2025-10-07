@@ -1,18 +1,3 @@
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
-  <img alt="Licencia Creative Commons" style="border-width:0"
-       src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
-</a>
-<br />
-Este trabajo, <strong>"The Friends"</strong>, de <strong>Santiago Mejía Guerra</strong> y <strong>Marilyn Ríos David</strong>, 
-está bajo una 
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
-  Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional
-</a>.
-
-Este trabajo, **"The Friends"**, de **Santiago Mejía Guerra** y **Marilyn Ríos David**,  
-está bajo una [Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/).
-
-
 # *Proyecto Final*
 ## **Cinema The Friends**
 
@@ -30,7 +15,7 @@ está bajo una [Licencia Creative Commons Atribución-CompartirIgual 4.0 Interna
 >* Estudiante udea de ingenieria industrial, tengo algo de habilidad en el dibujo y escritura, y mis fortalezas son la constancia, escucha, realmente no tengo mucho en cosas tecnicas pero espero desarrollarlas.
 
 ### Licencia:
-<a href="https://github.com/santiagomejia3-glitch/The-Friends">The Friends</a> © 2025 by <a href="https://github.com/santiagomejia3-glitch,https://github.com/marilynrios-dev">Santiago Mejia Guerra, Marilyn Rios David</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
 
 ## Nombre del proyecto y detalles: 
 * Nombre: The Friends
