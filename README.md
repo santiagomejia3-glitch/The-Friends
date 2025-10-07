@@ -19,7 +19,7 @@
 
 ### Nombre del proyecto y detalles: 
 * Nombre: The Friends
-*Descripcion breve*: creacion de un espacio cinematográfico también conocido como cinema, para ofrecer a la comunidad universitaria la capacidad de asistir a cine en las inmediaciones
+* Descripcion breve: creacion de un espacio cinematográfico también conocido como cinema, para ofrecer a la comunidad universitaria la capacidad de asistir a cine en las inmediaciones
 de la ciudadela universitaria los fines de semana. Permitiendo registrar usuarios, consultar la disponibilidad de películas para el próximo fin de semana, crear reservas, cancelar reservas, imprimir facturas, y mostrar el estado administrativo de los ingresos y del servicio de cine en la UdeA.
 <img width="352" height="352" alt="image" src="https://github.com/user-attachments/assets/b7282ccb-fcbc-4d8e-a770-302e243c15e4" />
 
