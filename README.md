@@ -12,7 +12,7 @@
 >* Estudiante udea de ingenieria industrial, tengo habilidad en ajedrez y fortalezas en administracion, contabilidad y finanzas.
 
 * Marilyn Rios David
->* Estudiante udea de ingenieria industrial, tengo algo de habilidad en el dibujo y escritura, y mis fortalezas son la constancia, escucha, realmente no tengo mucho en cosas tecnicas pero espero desarrollarlas.
+>* Estudiante udea de ingenieria industrial, tengo algo de habilidad en el dibujo y escritura, y mis fortalezas es la constancia.
 
 ### Nombre del proyecto y detalles: 
 * Nombre: The Friends
