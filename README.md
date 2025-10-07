@@ -17,8 +17,7 @@
 ### Licencia:
 <a href="https://github.com/santiagomejia3-glitch/The-Friends">The Friends</a> © 2025 by <a href="https://github.com/santiagomejia3-glitch,https://github.com/marilynrios-dev">Santiago Mejia Guerra, Marilyn Rios David</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
-
-## Nombre del proyecto y detalles: 
+### Nombre del proyecto y detalles: 
 * Nombre: The Friends
 *> La activiad academica de este proyecto es crear un cine universitario cuyo nombre es The Friends, el cual servira como insumo para ver y reservar peliculas. 
 <img width="352" height="352" alt="image" src="https://github.com/user-attachments/assets/b7282ccb-fcbc-4d8e-a770-302e243c15e4" />
