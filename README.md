@@ -3,7 +3,7 @@
 
 ### Integrantes:
 * Santiago Mejia Guerra
->* Hola soy santiago... descripcion corta
+>* Hola soy Santiago Mejia Me gusta mucho la Universidad de Antioquia estoy aprendiendo demasiado y me esta desarrollando mucho el pensamiento cognitivo.
 * Marilyn Rios David
 >* Hola soy marilyn y 
 
