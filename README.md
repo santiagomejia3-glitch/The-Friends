@@ -40,5 +40,18 @@ de la ciudadela universitaria los fines de semana. Permitiendo registrar usuario
 * Debe haber proteccion de datos personales
 * El software debe verse desde diferentes componentes tecnologicos como computadoras, tablets y celulares.
 * El software debe de ser facil de usar.
+### Diagrama de Gantt y presupuesto
+	TIEMPO																
+ACTIVIDADES		S1	S2	S3	S4	S5	S6	S7	S8	S9	S10	S11	S12	S13	S14	S15	S16
+	Conformacion de grupo de trabajo y acta																
+	Configuaracion de herrameintas de trabajo																
+	Reporte de vision																
+	especificacion de equisitos																
+	Tarabajo escrito																
+	construccion de cinema																
+																	
+	entrega																
+<img width="1658" height="201" alt="image" src="https://github.com/user-attachments/assets/b7f0d4b7-03b9-454d-aa16-71621d072705" />
+
 * Tiene corta duracion de respuesta  a los requerimientos.
 
