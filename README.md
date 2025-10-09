@@ -43,15 +43,27 @@ de la ciudadela universitaria los fines de semana. Permitiendo registrar usuario
 ### Diagrama de Gantt y presupuesto
 	TIEMPO																
 ACTIVIDADES		S1	S2	S3	S4	S5	S6	S7	S8	S9	S10	S11	S12	S13	S14	S15	S16
-	Conformacion de grupo de trabajo y acta																
+	Integrantes: Conformación de grupo de trabajo 																
 	Configuaracion de herrameintas de trabajo																
-	Reporte de vision																
-	especificacion de equisitos																
-	Tarabajo escrito																
-	construccion de cinema																
-																	
-	entrega																
-<img width="1658" height="201" alt="image" src="https://github.com/user-attachments/assets/b7f0d4b7-03b9-454d-aa16-71621d072705" />
+	Vinculos academicos y descripción																
+	Nombres del poyecto y detalles																
+	Licencia del software																
+	Reporte de visión																
+	Actas																
+	Especificacion de equisitos																
+	Plan de proyecto																
+	Plan de versionado																
+	Algoritmo																
+	Manual de usuario																
+	Entrega del trabajo en Github																
+<img width="1687" height="301" alt="image" src="https://github.com/user-attachments/assets/ec8471db-1e31-422f-85d8-aa0a9cb01e3e" />
+
+CONCEPTO	VALOR
+salario minimo	 1.423.000 
+valor hora por 50 semanas	 7.115 
+valor proyecto 4 semanas y 8 horas	 227.680 
+valor poyecto por 2 personas	 455.360 
+<img width="398" height="101" alt="image" src="https://github.com/user-attachments/assets/c9dc4630-9ca0-45b5-9f97-41f8f9854ed1" />
 
 * Tiene corta duracion de respuesta  a los requerimientos.
 
