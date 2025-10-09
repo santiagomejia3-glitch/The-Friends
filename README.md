@@ -43,5 +43,5 @@ de la ciudadela universitaria los fines de semana. Permitiendo registrar usuario
 ### Diagrama de Gantt y presupuesto																
 <img width="1687" height="301" alt="image" src="https://github.com/user-attachments/assets/ec8471db-1e31-422f-85d8-aa0a9cb01e3e" />
 <img width="398" height="101" alt="image" src="https://github.com/user-attachments/assets/c9dc4630-9ca0-45b5-9f97-41f8f9854ed1" />
-* Tiene corta duracion de respuesta  a los requerimientos.
+
 
