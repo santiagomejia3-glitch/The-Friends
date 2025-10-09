@@ -41,9 +41,10 @@ de la ciudadela universitaria los fines de semana. Permitiendo registrar usuario
 * El software debe verse desde diferentes componentes tecnologicos como computadoras, tablets y celulares.
 * El software debe de ser facil de usar.
 ### Diagrama de Gantt y presupuesto			
-# Diagrama de Gant:
+#### Diagrama de Gant:
 <img width="1687" height="301" alt="image" src="https://github.com/user-attachments/assets/ec8471db-1e31-422f-85d8-aa0a9cb01e3e" />
-# Presupuesto:
+#### Presupuesto:
+
 <img width="398" height="101" alt="image" src="https://github.com/user-attachments/assets/c9dc4630-9ca0-45b5-9f97-41f8f9854ed1" />
 
 
