@@ -40,30 +40,8 @@ de la ciudadela universitaria los fines de semana. Permitiendo registrar usuario
 * Debe haber proteccion de datos personales
 * El software debe verse desde diferentes componentes tecnologicos como computadoras, tablets y celulares.
 * El software debe de ser facil de usar.
-### Diagrama de Gantt y presupuesto
-	TIEMPO																
-ACTIVIDADES		S1	S2	S3	S4	S5	S6	S7	S8	S9	S10	S11	S12	S13	S14	S15	S16
-	Integrantes: Conformación de grupo de trabajo 																
-	Configuaracion de herrameintas de trabajo																
-	Vinculos academicos y descripción																
-	Nombres del poyecto y detalles																
-	Licencia del software																
-	Reporte de visión																
-	Actas																
-	Especificacion de equisitos																
-	Plan de proyecto																
-	Plan de versionado																
-	Algoritmo																
-	Manual de usuario																
-	Entrega del trabajo en Github																
+### Diagrama de Gantt y presupuesto																
 <img width="1687" height="301" alt="image" src="https://github.com/user-attachments/assets/ec8471db-1e31-422f-85d8-aa0a9cb01e3e" />
-
-CONCEPTO	VALOR
-salario minimo	 1.423.000 
-valor hora por 50 semanas	 7.115 
-valor proyecto 4 semanas y 8 horas	 227.680 
-valor poyecto por 2 personas	 455.360 
 <img width="398" height="101" alt="image" src="https://github.com/user-attachments/assets/c9dc4630-9ca0-45b5-9f97-41f8f9854ed1" />
-
 * Tiene corta duracion de respuesta  a los requerimientos.
 
