@@ -9,7 +9,7 @@
 
 ### Vinculos academicos y descripcion:
 * Santiago Mejia Guerra
->* Estudiante udea de ingenieria industrial, tengo habilidad en ajedrez y fortalezas en administracion, contabilidad y finanzas.
+>* Estudiante UdeA de ingenieria industrial, tengo habilidad en ajedrez y fortalezas en administracion, contabilidad y finanzas.
 
 * Marilyn Rios David
 >* Estudiante udea de ingenieria industrial, tengo algo de habilidad en el dibujo y escritura, y mis fortalezas es la constancia.
