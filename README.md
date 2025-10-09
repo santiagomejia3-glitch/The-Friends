@@ -35,7 +35,7 @@ de la ciudadela universitaria los fines de semana. Permitiendo registrar usuario
 ### Especificacion de requisitos:
 #### Requisitos funcionales: 
 * Registrar usuarios y reservas, cancelar reservas, consultar funciones de fines de semana de los diferentes usuarios
-* Funciones del administrador: llevar control estadistico de totales de reservas asignadas, tiquetes vendidos, reservas realizadas, pago realizado, promedio de venta diaria del cine, usuarios con mayor cantidad de mayor y menor cantidad de reservas.
+* Funciones del administrador: llevar control estadistico de totales de reservas asignadas, tiquetes vendidos, reservas realizadas, pago realizado, promedio de venta diaria del cine, usuarios con  mayor y menor cantidad de reservas.
 #### Requisitos no funcionales: 
 * Debe haber proteccion de datos personales
 * El software debe verse desde diferentes componentes tecnologicos como computadoras, tablets y celulares.
