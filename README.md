@@ -5,14 +5,14 @@
 * Santiago Mejia Guerra
 >* Hola soy Santiago Mejia Me gusta mucho la Universidad de Antioquia estoy aprendiendo demasiado y me esta desarrollando mucho el pensamiento cognitivo.
 * Marilyn Rios David
->* Hola soy marilyn y 
+>* Hola soy marilyn y me gusta mucho aprender cosas nuevas, quiero sacarle mucho provecho a la materia algoritmia y programacion, es muy divertida.
 
 ### Vinculos academicos y descripcion:
 * Santiago Mejia Guerra
 >* Estudiante UdeA de ingenieria industrial, tengo habilidad en ajedrez y fortalezas en administracion, contabilidad y finanzas.
 
 * Marilyn Rios David
->* Estudiante UdeA de ingenieria industrial, tengo algo de habilidad en el dibujo, escritura,  mis fortalezas son la constancia y resilencia.
+>* Estudiante UdeA de ingenieria industrial, tengo algo de habilidad en el dibujo y escritura,  mis fortalezas son la constancia y resiliencia.
 
 ### Nombre del proyecto y detalles: 
 * Nombre: The Friends
