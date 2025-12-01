@@ -1,14 +1,14 @@
-#MANUAL DE USUARIO 
-##FUNCIONES PRINCIPALES: 
+MANUAL DE USUARIO 
+FUNCIONES PRINCIPALES: 
 
-###Registrar usuario 
+Registrar usuario 
 **Paso 1: Seleccionar opción 1 
 **Paso 2: Ingresar el nombre: debe tener mínimo tres letras, y no se permiten numeros  
 **Paso 3: Ingresar apellido: mismas reglas del nombre 
 **Paso 4: Ingresar documento: debe tener entre 3 y 15 dígitos, no se permiten letras 
 **Paso 5: Ingresar tipo de vinculo: seleccionar una opción 
 
-###Registrar reserva 
+Registrar reserva 
 **Paso 1: Seleccionar opción 2 
 **Paso 2: Ingrese su documento registrado 
 **Paso 3: Seleccione la película 
@@ -17,13 +17,13 @@
 **Paso 6: Factura  
 **Paso 7:  Realizar pago: Ingrese el monto en efectivo, el sistema calculara el cambio 
 
-###Cancelar reserva  
+Cancelar reserva  
 **Paso 1: Seleccionar opción 3 
 **Paso 2: Ingrese su documento  
 **Paso 3: Visualice sus reservas  
 **Paso 4: Seleccione el número de reserva a cancelar  
 
-###Consultar funciones fin de semana 
+Consultar funciones fin de semana 
 **Paso 1: Seleccionar opción 4 
 **Información mostrada:**
 -Total de funciones 
@@ -31,7 +31,7 @@
 -Horarios por día (viernes, sabado, domingo) 
 -Asientos disponibles por función 
 
-###Administrador 
+Administrador 
 **Acceso restringido:** requiere credenciales 
 **Credenciales por defecto:** 
 -Usuario: admin / Contraseña: 123456 
@@ -45,14 +45,14 @@
 5. Lista de usuarios 
 6. Usuarios con más menos reservas 
 
-##PREGUNTAS FRECUENTES 
+PREGUNTAS FRECUENTES 
 **¿puedo reservar múltiples asientos?**
 No, actualmente se permite reservar un solo asiento 
 
 **¿Los datos se guardan al cerrar el programa?** 
 No, los datos se guardan solo durante la sesión actual. 
 
-##SOLUCION DE PROBLEMAS
+SOLUCION DE PROBLEMAS
 **Error: 'Usuario no encontrado'**
 Debe registrarse primero usando la opcion 1
 **Error: 'Asiento ocupado'**
@@ -60,7 +60,7 @@ Seleccione otro asiento. Los marcados con X no estan disponibles
 **Error:'No tiene reservas activas '**
 Debe hacer al menos una reserva antes de cancelar
 
-###SOPORTE
+SOPORTE
 Para consultas o problemas:
 -Desarrolladores: Santiago mejia, Marilyn rios
--Correo: santiago.mejia3@udea.edu.co
+-Correo: santiago.mejia3@udea.edu.co, marilyn.rios@udea.edu.co
