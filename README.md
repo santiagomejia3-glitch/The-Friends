@@ -49,19 +49,19 @@ de la ciudadela universitaria los fines de semana. Permitiendo registrar usuario
 
 ### Plan de versionado:
 #### v.1 -Estructura base (13/11/2025) 
-**Creación de la función CrearCinema()** 
-**Creación de la función ImprimirSalaCine()** 
-**Creación del menú utilizando match case** 
+1. Creación de la función CrearCinema()
+2. Creación de la función ImprimirSalaCine()
+3. Creación del menú utilizando match case
 #### v.2 -Creación de la factura (17/11/2025) 
 #### v.3 -Registro de usuario (19/11/2025) 
-**Creación del diccionario de usuario vacío** 
+1. Creación del diccionario de usuario vacío
 **Case 1:**
-**Creación de la validación del nombre** 
-**Creación de la validación del apellido** 
-**Creación de la validación del documento**
-**Creación de opción de escoger el tipo de vinculo**
+2. Creación de la validación del nombre** 
+3. Creación de la validación del apellido** 
+4. Creación de la validación del documento**
+5. Creación de opción de escoger el tipo de vinculo**
 **Agregado:** 
-**Al diccionario con llave documento la información obtenida** 
+Al diccionario con llave documento la información obtenida** 
 #### v.2 -Registro de reserva (21-23/11/2025) 
 **Creación del diccionario de reserva vacío** 
 **Case 2:** 
