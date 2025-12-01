@@ -55,42 +55,42 @@ de la ciudadela universitaria los fines de semana. Permitiendo registrar usuario
 #### v.2 -Creación de la factura (17/11/2025) 
 #### v.3 -Registro de usuario (19/11/2025) 
 1. Creación del diccionario de usuario vacío
-**Case 1:**
-2. Creación de la validación del nombre** 
-3. Creación de la validación del apellido** 
-4. Creación de la validación del documento**
-5. Creación de opción de escoger el tipo de vinculo**
-**Agregado:** 
+Case 1
+2. Creación de la validación del nombre
+3. Creación de la validación del apellido 
+4. Creación de la validación del documento
+5. Creación de opción de escoger el tipo de vinculo
+Agregado:
 Al diccionario con llave documento la información obtenida** 
 #### v.2 -Registro de reserva (21-23/11/2025) 
-**Creación del diccionario de reserva vacío** 
-**Case 2:** 
-**Creación de la restricción que no deja hacer la reserva a usuarios no registrados**  
-**Creación de la opción para seleccionar películas** 
-**Creación de la selección de fila y columna del asiento**
-**Creación de la verificación de asientos disponibles**  
-**Creacion de la ocupacion de asientos** 
-**Agregado:** 
-**Al diccionario de reserva con llave documento la información obtenida** 
-**la factura** 
+1. Creación del diccionario de reserva vacío
+Case 2:
+2. Creación de la restricción que no deja hacer la reserva a usuarios no registrados
+3. Creación de la opción para seleccionar películas
+4. Creación de la selección de fila y columna del asiento
+5. Creación de la verificación de asientos disponibles  
+6. Creacion de la ocupacion de asientos
+Agregado:
+Al diccionario de reserva con llave documento la información obtenida
+la factura
 #### v.3 -Cancelación de reserva (25/11/2025) 
-**Case 3:** 
-**Creación de la restricción que no deja cancelar reserva a usuarios sin reserva**  
-**Creación de la validacion de usuario registrado** 
-**Creación de la visualización de reservas existentes**  
-**Creación de la selección de reserva a cancelar** 
-**Creación de la liberacion del asiento** 
-**Creacion de la eliminacion de la reserva**  
+Case 3:
+1. Creación de la restricción que no deja cancelar reserva a usuarios sin reserva
+2. Creación de la validacion de usuario registrado
+3. Creación de la visualización de reservas existentes  
+4. Creación de la selección de reserva a cancelar 
+5. Creación de la liberacion del asiento
+6. Creacion de la eliminacion de la reserva 
 #### v.4 -Consultar funciones fin de semana (27/11/2025) 
-**Case 4:** 
-**Creación de la lista de funciones programadas** 
-**Creación de la tabla con información: idpelicula, día, hora, nombre película y asientos disponibles** 
-**Creación del contador total de funciones** 
-**Creación de contador de películas en cartelera** 
+Case 4:
+1. Creación de la lista de funciones programadas
+2. Creación de la tabla con información: idpelicula, día, hora, nombre película y asientos disponibles
+3. Creación del contador total de funciones
+4. Creación de contador de películas en cartelera
 #### v.5 - Administrador (28-30/11/2025) 
-**Case 5:** 
-**Creacion del diccionario de administrador para validación**
-**Creación del sistema de autentificacion con usuario y contraseña** 
-**Creación del submenú** 
+Case 5: 
+1. Creacion del diccionario de administrador para validación
+2. Creación del sistema de autentificacion con usuario y contraseña 
+3. Creación del submenú
 
 
