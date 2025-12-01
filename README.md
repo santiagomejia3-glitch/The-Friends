@@ -54,25 +54,25 @@ de la ciudadela universitaria los fines de semana. Permitiendo registrar usuario
 3. Creación del menú utilizando match case
 #### v.2 -Creación de la factura (17/11/2025) 
 #### v.3 -Registro de usuario (19/11/2025) 
-1. Creación del diccionario de usuario vacío
 Case 1
+1. Creación del diccionario de usuario vacío
 2. Creación de la validación del nombre
 3. Creación de la validación del apellido 
 4. Creación de la validación del documento
 5. Creación de opción de escoger el tipo de vinculo
 Agregado:
-Al diccionario con llave documento la información obtenida** 
+Al diccionario con llave documento la información obtenida
 #### v.2 -Registro de reserva (21-23/11/2025) 
-1. Creación del diccionario de reserva vacío
 Case 2:
+1. Creación del diccionario de reserva vacío
 2. Creación de la restricción que no deja hacer la reserva a usuarios no registrados
 3. Creación de la opción para seleccionar películas
 4. Creación de la selección de fila y columna del asiento
 5. Creación de la verificación de asientos disponibles  
 6. Creacion de la ocupacion de asientos
 Agregado:
-Al diccionario de reserva con llave documento la información obtenida
-la factura
+7. Al diccionario de reserva con llave documento la información obtenida
+8. la factura
 #### v.3 -Cancelación de reserva (25/11/2025) 
 Case 3:
 1. Creación de la restricción que no deja cancelar reserva a usuarios sin reserva
