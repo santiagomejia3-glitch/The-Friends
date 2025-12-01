@@ -59,8 +59,7 @@ de la ciudadela universitaria los fines de semana. Permitiendo registrar usuario
 3. Creación de la validación del apellido 
 4. Creación de la validación del documento
 5. Creación de opción de escoger el tipo de vinculo
-Agregado:
-Al diccionario con llave documento la información obtenida
+6. Al diccionario con llave documento agregarle la información obtenida
 #### v.2 -Registro de reserva (21-23/11/2025) 
 1. Creación del diccionario de reserva vacío
 2. Creación de la restricción que no deja hacer la reserva a usuarios no registrados
@@ -68,9 +67,8 @@ Al diccionario con llave documento la información obtenida
 4. Creación de la selección de fila y columna del asiento
 5. Creación de la verificación de asientos disponibles  
 6. Creacion de la ocupacion de asientos
-Agregado:
-7. Al diccionario de reserva con llave documento la información obtenida
-8. la factura
+7. Al diccionario de reserva con llave documento agregarle la información obtenida
+8. Agregar la factura
 #### v.3 -Cancelación de reserva (25/11/2025) 
 1. Creación de la restricción que no deja cancelar reserva a usuarios sin reserva
 2. Creación de la validacion de usuario registrado
