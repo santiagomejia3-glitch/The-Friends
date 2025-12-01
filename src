@@ -411,11 +411,7 @@ while True:
                             break
             else:
                 print('Error, usuario o contraseña incorrectos')
-                print()
-
-                    
-
-
+                print()                  
 
         case _:
             print('Gracias por visitar Cinema The Friends')
