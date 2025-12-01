@@ -47,4 +47,50 @@ de la ciudadela universitaria los fines de semana. Permitiendo registrar usuario
 #### Presupuesto:
 <img width="398" height="101" alt="image" src="https://github.com/user-attachments/assets/c9dc4630-9ca0-45b5-9f97-41f8f9854ed1" />
 
+### Plan de versionado:
+#### v.1 -Estructura base (13/11/2025) 
+**Creación de la función CrearCinema()** 
+**Creación de la función ImprimirSalaCine()** 
+**Creación del menú utilizando match case** 
+#### v.2 -Creación de la factura (17/11/2025) 
+#### v.3 -Registro de usuario (19/11/2025) 
+**Creación del diccionario de usuario vacío** 
+**Case 1:**
+**Creación de la validación del nombre** 
+**Creación de la validación del apellido** 
+**Creación de la validación del documento**
+**Creación de opción de escoger el tipo de vinculo**
+**Agregado:** 
+**Al diccionario con llave documento la información obtenida** 
+#### v.2 -Registro de reserva (21-23/11/2025) 
+**Creación del diccionario de reserva vacío** 
+**Case 2:** 
+**Creación de la restricción que no deja hacer la reserva a usuarios no registrados**  
+**Creación de la opción para seleccionar películas** 
+**Creación de la selección de fila y columna del asiento**
+**Creación de la verificación de asientos disponibles**  
+**Creacion de la ocupacion de asientos** 
+**Agregado:** 
+**Al diccionario de reserva con llave documento la información obtenida** 
+**la factura** 
+#### v.3 -Cancelación de reserva (25/11/2025) 
+**Case 3:** 
+**Creación de la restricción que no deja cancelar reserva a usuarios sin reserva**  
+**Creación de la validacion de usuario registrado** 
+**Creación de la visualización de reservas existentes**  
+**Creación de la selección de reserva a cancelar** 
+**Creación de la liberacion del asiento** 
+**Creacion de la eliminacion de la reserva**  
+#### v.4 -Consultar funciones fin de semana (27/11/2025) 
+**Case 4:** 
+**Creación de la lista de funciones programadas** 
+**Creación de la tabla con información: idpelicula, día, hora, nombre película y asientos disponibles** 
+**Creación del contador total de funciones** 
+**Creación de contador de películas en cartelera** 
+#### v.5 - Administrador (28-30/11/2025) 
+**Case 5:** 
+**Creacion del diccionario de administrador para validación**
+**Creación del sistema de autentificacion con usuario y contraseña** 
+**Creación del submenú** 
+
 
