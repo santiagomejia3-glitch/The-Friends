@@ -1,1 +1,422 @@
+def CrearCinema():
+    lstAsientosCinema = []
+    for i in range(11):
+        fila = []
+        for j in range(11):
+            fila.append('O')
 
+        lstAsientosCinema.append(fila)
+    return lstAsientosCinema
+def ImprimirSalaCine(lista:list):
+    lstLetras11 = []
+    letras = 'ABCDEFGHIJK'
+    for letra in letras:
+        lstLetras11.append(letra)
+
+    print('='*60)
+    print('Cinema TheFriends (O Disponible, X Ocupado)'.center(60))
+    print('='*60)
+    print(' '*4,end='')
+    for c in lstLetras11:
+        print(c,end='    ')
+    print()
+    for i,j in enumerate(lista):
+        print(lstLetras11[i],end=' ')
+        print(j)
+    print('='*60)
+
+def Menu():
+    print('1. Registrar Usuario')
+    print('2. Reservar')
+    print('3. Cancelar reserva')
+    print('4. Consultar funciones fin de semana')
+    print('5. Administrador')
+    print('6. Salir')
+Cine = CrearCinema()
+dicUsuario = {}
+dicReservas = {}
+Cines = {'Codigo Enigma':Cine, 'Stranger Things': Cine, 'El juego de la fortuna': Cine}
+funciones_fin_semana = [['IdPelicula', 'Dia', 'Hora', 'Pelicula', 'Disponibles'],
+                        [1, 'Viernes', '2pm', 'Interstellar',       100],
+                        [1, 'Viernes', '4pm', 'Interstellar',         5],
+                        [1, 'Viernes', '6pm', 'Interstellar',        50],
+                        [2, 'Sabado',  '2pm', 'Oppenheimer',         23],
+                        [2, 'Sabado',  '4pm', 'Oppenheimer',         44],
+                        [2, 'Sabado',  '6pm', 'Oppenheimer',         66],
+                        [3, 'Domingo', '2pm', 'The imitation game',  11],
+                        [3, 'Domingo', '4pm', 'The imitation game',   0],
+                        [3, 'Domingo', '6pm', 'The imitation game',   7]
+                        ]
+peliculas_cartelera = ['Interstelar', 'Oppenheimer', 'The imitation game']
+dicUsuarioContrasenia = {
+    'admin' : '123456',
+    'admin2' : '134789'
+    }
+
+def ValidarUsuarioContrasenia(dic:dict, usuario:str, contra:str):
+    if usuario in dic.keys():
+
+        contrasenia = dic[usuario]
+        if contra == contrasenia:
+            return True
+        else:
+            return False
+    else:
+        return False
+while True:
+    print('Bienvenido a Cinema The Friends'.center(60))
+    Menu()
+    Cines = {'Codigo Enigma':Cine, 'Stranger Things': Cine, 'El juego de la fortuna': Cine}
+    opcion = input('Ingresa tu opcion--> ')
+    match opcion:
+        case '1':
+            print("\nRegistro de usuario")
+            while True:
+                nombre = input('Ingrese su nombre: ')
+                if len(nombre)>=3:
+                    if nombre.isalpha():
+                        break
+                    else:
+                        print('Error, el nombre no puede tener numeros.')
+                else:print('Error, el nombre debe tener al menos 3 letras.')
+            while True:
+                apellido = input('Ingrese su apellido: ')
+                if len(apellido)>=3:
+                    if apellido.isalpha():
+                        break
+                    else:
+                        print('Error, el apellido no puede tener numeros.')
+                else:
+                    print('Error, el apellido debe tener al menos 3 letras.')
+
+
+            while True:
+                documento = input('Ingrese su documento: ')
+                if 3<=len(documento)<=15:
+                    if documento.isdigit():
+                        break
+                    else:
+                        print('Error, el documento solo puede tener numeros')
+                else:
+                    print('Error, el documento debe tener entre 3 y 15 dígitos.')
+
+            tipo_vinculo_menu = """
+            Tipo De Vinculo
+            1. Estudiante
+            2. Docente
+            3. Administrativos
+            4. Oficiales internos
+            5. Publico externo
+            """
+            while True:
+                print(tipo_vinculo_menu)
+                opcion = input('Seleccione el tipo de vinculo que tiene con la universidad: ')
+                if opcion == '1':
+                    tipo_vinculo = 'Estudiante'
+                    precio = 7500
+                    break
+                elif opcion == '2':
+                    tipo_vinculo = 'Docente'
+                    precio = 10000
+                    break
+                elif opcion == '3':
+                    tipo_vinculo = 'Administrativos'
+                    precio = 8500
+                    break
+                elif opcion == '4':
+                    tipo_vinculo = 'Oficiales internos'
+                    precio = 7000
+                    break
+                elif opcion == '5':
+                    tipo_vinculo = 'Publico externo'
+                    precio = 15000
+                    break
+                else:
+                    print('Error, opcion no valida, debe elegir un numero entre 1 y 5')
+
+            dicUsuario[documento] = [nombre, apellido, tipo_vinculo, precio]
+            print(f'\nUsuario {nombre} {apellido} registrado')
+            print()
+
+        case '2':
+            if len(dicUsuario) == 0:
+                print('Error, primero debe registrarse')
+                print()
+                continue
+            documento = input('Ingrese su documento: ')
+
+            if documento not in dicUsuario:
+                print('Error, documento no registrado')
+                print()
+                continue
+
+            print("\nRegistro de reservas")
+
+            peliculas = """
+            Peliculas
+            1.Codigo Enigma
+            2.Stranger Things
+            3.El juego de la fortuna
+            """
+            print(peliculas)
+            while True:
+                p = input('Seleccione la pelicula que desea ver: ')
+                if p == '1':
+                    pelicula = 'Codigo Enigma'
+                    break
+                elif p == '2':
+                    pelicula = 'Stranger Things'
+                    break
+                elif p == '3':
+                    pelicula = 'El juego de la fortuna'
+                    break
+                else:
+                    print('Error, opción inválida')
+
+            ImprimirSalaCine(Cines[pelicula])
+            letras = 'ABCDEFGHIJK'
+
+            while True:
+                fila = input('Ingrese la fila del asiento: ').upper()
+                columna = input('Ingrese la columna del asiento: ').upper()
+
+                if fila not in letras or columna not in letras:
+                    print('Fila o columna inválida')
+                    continue
+
+                i = letras.index(fila)
+                j = letras.index(columna)
+
+                if Cines[pelicula][i][j] == 'O':
+                    Cines[pelicula][i][j] = 'X'
+                    print(f'\nAsiento {fila}{columna} reservado')
+                    break
+                else:
+                    print(f'Error, asiento {fila}{columna} ocupado')
+
+            ImprimirSalaCine(Cines[pelicula])
+
+            asiento = f'{fila}{columna}'
+            precio = dicUsuario[documento][3]
+
+            dicReservas.setdefault(documento, []).append([pelicula, asiento, precio])
+
+            subtotal = precio
+            iva = int(precio*0.19)
+            total = int(precio * 1.19)
+            print(f'El total a pagar es {total}')
+            pago = int(input('Ingrese el valor con el que paga: '))
+            cambio = pago - total
+            
+            NIT = 'Cinema The Friends NIT900276962-1 Gran contribuyente y Agente retenedor de IVA Res.00200/24'
+            TEL = 'TEL: 44600727 Ext.15'
+            DIR = 'CRA 45 #32-11, MEDELLÍN'
+
+            from datetime import datetime as dt
+            import random
+
+            now = dt.now()
+            timestamp = dt.timestamp(now)
+            formatted_datetime = now.strftime("%d/%m/%Y %H:%M:%S")
+            formatted_datetime2 = now.strftime("%d-%m-%Y %H:%M:%S")
+
+            print(NIT.center(80))
+            print(TEL.center(80))
+            print(DIR.center(80))
+            print(f'Cliente: {nombre}{apellido} C.C: {documento}'.ljust(80))
+            print(f'Tipo de vinculo: {tipo_vinculo}'.ljust(80))
+            print(f'Generacion: {formatted_datetime}'.ljust(80))
+            print(f'Validacion Dian: {formatted_datetime2}'.ljust(80))
+            print('#I', 'CAN'.center(5), 'UM'.center(5), 'VALOR U'.center(12), 'CODIGO'.center(10), 'DESCRIPCION'.center(20), 'VALOR'.center(10),'ID'.rjust(12))
+
+            i = 0
+            for llave, lista_reservas in dicReservas.items():
+                if llave == documento:
+                    for pelicula_f, asiento_f, valor in lista_reservas:
+                        codigo = random.randint(1, 10000000000000)
+                        i += 1
+                        print(i, '1'.center(5), 'UN'.center(7),format(valor,',').center(10),str(codigo).center(10), f'{pelicula_f}{asiento_f}'.center(20),format(valor,','),'A'.rjust(15))
+
+            print('TOTAL',format(total,',').center(115))
+            print('FORMA DE PAGO: CONTADO - VALOR PAGADO',format(total,',').rjust(42))
+            print('EFECTIVO $',format(pago,',').rjust(69))
+            print('CAMBIO',format(cambio,',').rjust(73))
+
+            print('RESUMEN DE IMPUESTOS'.center(80))
+            print('ID'.ljust(10), 'TOTAL'.center(20), 'BASE'.center(20), 'IVA'.rjust(20))
+
+            base = int(total / 1.19)
+            iva_final = int(total - base)
+            print('19%'.ljust(10), format(total,',').center(20), format(base,',').center(20), format(iva_final,',').rjust(20))
+            print('\nID. CLIENTE: documento')
+
+        case '3':
+            if len(dicReservas) == 0:
+                print('Error, no tiene reservas')
+                print()
+                continue
+            documento = input('Ingrese su documento: ')
+
+            if documento not in dicReservas:
+                print('Error, no tiene reservas registradas')
+                print()
+                continue
+
+            if len(dicReservas[documento]) == 0:
+                print('Error, no tiene reservas activas')
+                print()
+                continue
+
+            
+
+            nombre = dicUsuario[documento][0]
+            apellido = dicUsuario[documento][1]
+
+            print(f'\nRESERVAS DE {nombre} {apellido}')
+            for i, r in enumerate(dicReservas[documento]):
+                print(f"{i+1}. Película: {r[0]} - Asiento: {r[1]} - Precio: {r[2]}")
+
+            while True:
+                n = input('Ingrese el numero de la reserva que desea cancelar: ')
+                if n.isdigit() and 1 <= int(n) <= len(dicReservas[documento]):
+                    n = int(n)
+                    break
+
+                else:
+                    print('Error, opcion invalida')
+
+            reserva = dicReservas[documento][n - 1]
+            asiento = reserva[1]
+            pelicula_a_cancelar = reserva[0]
+
+            letras = 'ABCDEFGHIJK'
+            f = letras.index(asiento[0])
+            c = letras.index(asiento[1])
+
+            Cines[pelicula_a_cancelar][f][c] = 'O'
+            dicReservas[documento].pop(n - 1)
+
+            print('Reserva Cancelada')
+
+
+        case '4':
+            print('\n')
+            print('='*80)
+            print('CARTELERA DE CINE THE FRIENDS'.center(80))
+            print('='*80)
+            print()
+
+            total_funciones = len(funciones_fin_semana)
+            total_peliculas = len(peliculas_cartelera)
+
+            print(f'Total de funciones programadas: {total_funciones}')
+            print(f'peliculas en cartelera: {total_peliculas}')
+
+            print('PELICULAS EN CARTELERA:')
+            print('-'*80)
+            for pelicula in peliculas_cartelera:
+                print(f'{pelicula}')
+            print()
+
+            print('HORARIOS Y DISPONIBILIDAD')
+            print('-'*80)
+            print(f'IdPelicula | Dia | Hora | Pelicula | Disponibles')
+            print('-'*80)
+
+            for funcion in funciones_fin_semana:
+                id_pelicula = funcion[0]
+                dia = funcion[1]
+                hora = funcion[2]
+                pelicula = funcion[3]
+                disponibles = funcion[4]
+                print(f'{id_pelicula}  {dia}  {hora}  {pelicula}  {disponibles}')
+            print('-' * 80)
+            print()
+
+        case '5':
+            usuario = input('Ingrese su usuario: ')
+            contrasenia = input('Ingrese su contraseña: ')
+            if ValidarUsuarioContrasenia(dicUsuarioContrasenia, usuario, contrasenia):
+                print('Bienvenido administrador')
+            
+                while True:
+                    print('='*60)
+                    print('Administracion del cine')
+                    print('1. Total de reservas registradas')
+                    print('2. Total de tiquetes vendidos')
+                    print('3. Total pago realizado')
+                    print('4. Promedio por venta')
+                    print('5. Lista de usuarios')
+                    print('6. Usuario con mas/menos reservas')
+                    print('7. Volver al menu pricipal')
+                    print('='*60)
+                    op = input('Seleccione una opcion: ')
+                    match op:
+                        case '1':
+                            total = sum(len(dicReservas[d]) for d in dicReservas)
+                            print(f"Total reservas: {total}")
+
+                        case '2':
+                            total = sum(len(dicReservas[d]) for d in dicReservas)
+                            print(f"Tiquetes vendidos: {total}")
+
+                        case '3':
+                            total = sum(r[2] for d in dicReservas for r in dicReservas[d])
+                            print(f"Total pagado: ${total}")
+
+                        case'4':
+                            valores = [r[2] for d in dicReservas for r in dicReservas[d]]
+                            if valores:
+                                print(f"Promedio: ${sum(valores)/len(valores):.2f}")
+                            else:
+                                print("No hay ventas")
+
+
+                        case '5':
+                            print("Usuarios:")
+                            for doc in dicUsuario:
+                                n = dicUsuario[doc][0]
+                                a = dicUsuario[doc][1]
+                                v = dicUsuario[doc][2]
+                                print(f"{doc} | {n} {a} | {v}")
+
+                        case'6':
+                            if len(dicReservas) == 0:
+                                print("No hay reservas registradas")
+                                continue
+                        
+                            max_reservas = 0
+                            min_reservas = 99999
+                            doc_max = ""
+                            doc_min = ""
+                            for doc in dicReservas:
+                                num_reservas = len(dicReservas[doc])
+                                if num_reservas > 0:
+                                    if num_reservas > max_reservas:
+                                        max_reservas = num_reservas
+                                        doc_max = doc
+
+                                    if num_reservas < min_reservas:
+                                        min_reservas = num_reservas
+                                        doc_min = doc
+
+                            if doc_max != "":
+                                print(f"Usuario con más reservas: {doc_max} ({max_reservas} reservas)")
+                            if doc_min != "":
+                                print(f"Usuario con menos reservas: {doc_min} ({min_reservas} reservas)")
+                            if doc_max =='':
+                                print("No hay usuarios con reservas")
+
+                        case '7':
+                            break
+            else:
+                print('Error, usuario o contraseña incorrectos')
+                print()
+
+                    
+
+
+
+        case _:
+            print('Gracias por visitar Cinema The Friends')
+            break
